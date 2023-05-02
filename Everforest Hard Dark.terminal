@@ -396,15 +396,21 @@
 	EgEUARYBGAEfASUBLwExATMBNQNRA1YDYQNqA3cDegOHA5ADlQOdAAAAAAAAAgEAAAAA
 	AAAAKAAAAAAAAAAAAAAAAAAAA6A=
 	</data>
-	<key>CursorBlink</key>
+	<key>BlinkText</key>
 	<true/>
+	<key>BookmarkRestorations</key>
+	<true/>
+	<key>CommandString</key>
+	<string></string>
+	<key>CursorBlink</key>
+	<false/>
 	<key>CursorColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
 	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGmCwwXHR4lVSRudWxs1Q0ODxAR
 	EhMUFRZcTlNDb21wb25lbnRzVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29s
-	b3JTcGFjZVYkY2xhc3NPECgwLjI3NDUwOTgxNzQgMC4zMTM3MjU1MDEzIDAuMzI5NDEx
-	Nzc0OSAxTxAnMC4yMDQ3MzI0OTI2IDAuMjQ3ODUwMzU4NSAwLjI2MjA5MTY5NjMAEAGA
+	b3JTcGFjZVYkY2xhc3NPECgwLjI3NDUwOTgxNzQgMC4zMTM3MjU1MDEzIDAuMzMzMzMz
+	MzQzMyAxTxAnMC4yMDQ3MjIxMzYzIDAuMjQ3NzExMDQ3NSAwLjI2NTk0OTg0NTMAEAGA
 	AoAF0xgRGRobHFVOU0lDQ1lOU1NwYWNlSUSAA4AEEAxPEQIYAAACGGFwcGwEAAAAbW50
 	clJHQiBYWVogB+YAAQABAAAAAAAAYWNzcEFQUEwAAAAAQVBQTAAAAAAAAAAAAAAAAAAA
 	AAAAAPbWAAEAAAAA0y1hcHBs7P2jjjiFR8NttL1PetoYLwAAAAAAAAAAAAAAAAAAAAAA
@@ -421,6 +427,10 @@
 	ADcASQBMAFEAUwBaAGAAawB4AH4AiwCgAKcA0gD8AP4BAAECAQkBDwEZARsBHQEfAzsD
 	QANLA1QDYQNkA3EDegN/A4cAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADig==
 	</data>
+	<key>CursorType</key>
+	<integer>0</integer>
+	<key>DisableANSIColor</key>
+	<false/>
 	<key>Font</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
@@ -436,6 +446,8 @@
 	<real>1.004032258064516</real>
 	<key>ProfileCurrentVersion</key>
 	<real>2.0699999999999998</real>
+	<key>RunCommandAsShell</key>
+	<true/>
 	<key>SelectionColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
@@ -459,6 +471,30 @@
 	NwBJAEwAUQBTAFoAYABrAHgAfgCLAKAApwDRAPsA/QD/AQEBCAEOARgBGgEcAR4DOgM/
 	A0oDUwNgA2MDcAN5A34DhgAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAOJ
 	</data>
+	<key>ShouldLimitScrollback</key>
+	<integer>0</integer>
+	<key>ShowActiveProcessInTabTitle</key>
+	<true/>
+	<key>ShowActiveProcessInTitle</key>
+	<true/>
+	<key>ShowActivityIndicatorInTab</key>
+	<true/>
+	<key>ShowCommandKeyInTitle</key>
+	<false/>
+	<key>ShowComponentsWhenTabHasCustomTitle</key>
+	<false/>
+	<key>ShowDimensionsInTitle</key>
+	<true/>
+	<key>ShowRepresentedURLInTitle</key>
+	<true/>
+	<key>ShowRepresentedURLPathInTabTitle</key>
+	<true/>
+	<key>ShowShellCommandInTitle</key>
+	<false/>
+	<key>ShowTTYNameInTabTitle</key>
+	<false/>
+	<key>ShowWindowSettingsNameInTitle</key>
+	<false/>
 	<key>TextBoldColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
@@ -505,11 +541,17 @@
 	NwBJAEwAUQBTAFoAYABrAHgAfgCLAKAApwDSAPsA/QD/AQEBCAEOARgBGgEcAR4DOgM/
 	A0oDUwNgA2MDcAN5A34DhgAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAOJ
 	</data>
-	<key>UseBrightBold</key>
+	<key>UseBoldFonts</key>
 	<true/>
+	<key>UseBrightBold</key>
+	<false/>
 	<key>name</key>
 	<string>Everforest Hard Dark</string>
+	<key>shellExitAction</key>
+	<integer>2</integer>
 	<key>type</key>
 	<string>Window Settings</string>
+	<key>useOptionAsMetaKey</key>
+	<false/>
 </dict>
 </plist>

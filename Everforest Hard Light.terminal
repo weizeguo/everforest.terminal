@@ -396,8 +396,12 @@
 	3QEUARYBGAEaASEBJwExATMBNQE3A1MDWANjA2wDeQN8A4kDkgOXA58AAAAAAAACAQAA
 	AAAAAAAoAAAAAAAAAAAAAAAAAAADog==
 	</data>
-	<key>CursorBlink</key>
+	<key>BookmarkRestorations</key>
 	<true/>
+	<key>CommandString</key>
+	<string></string>
+	<key>CursorBlink</key>
+	<false/>
 	<key>CursorColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
@@ -436,6 +440,8 @@
 	<real>1.004032258064516</real>
 	<key>ProfileCurrentVersion</key>
 	<real>2.0699999999999998</real>
+	<key>RunCommandAsShell</key>
+	<true/>
 	<key>SelectionColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
@@ -459,6 +465,16 @@
 	ADcASQBMAFEAUwBaAGAAawB4AH4AiwCgAKcA0gD8AP4BAAECAQkBDwEZARsBHQEfAzsD
 	QANLA1QDYQNkA3EDegN/A4cAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADig==
 	</data>
+	<key>ShouldLimitScrollback</key>
+	<integer>0</integer>
+	<key>ShowActiveProcessInTabTitle</key>
+	<true/>
+	<key>ShowActiveProcessInTitle</key>
+	<true/>
+	<key>ShowDimensionsInTitle</key>
+	<true/>
+	<key>ShowRepresentedURLInTitle</key>
+	<true/>
 	<key>TextBoldColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
@@ -506,10 +522,14 @@
 	QANLA1QDYQNkA3EDegN/A4cAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADig==
 	</data>
 	<key>UseBrightBold</key>
-	<true/>
+	<false/>
 	<key>name</key>
 	<string>Everforest Hard Light</string>
+	<key>shellExitAction</key>
+	<integer>2</integer>
 	<key>type</key>
 	<string>Window Settings</string>
+	<key>useOptionAsMetaKey</key>
+	<false/>
 </dict>
 </plist>
